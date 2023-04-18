@@ -1,0 +1,61 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="tutors.css">   
+  <title>Tutor Sign-up</title>
+</head>
+
+<body OnLoad="document.signin.wsuser.focus();">
+	
+	<DIV>
+<table id="myheader">
+<tbody>
+<tr>
+   <td><img src="Images/umuc_logo.jpg" alt="UMUC logo"/></td>  
+   <td>CS Tutor</td>   
+</tr>
+</tbody>
+</table>
+</DIV>
+
+<h3>Welcome to the CMIS and CMSC Tutor Request Site</h3>
+
+
+
+
+<form name="signin" method="POST" action="authcheck.php">	
+<table border="1" width="51%" id="mylogin">
+	<tr>
+		<td>							
+			<h5>If you have already created an account, sign in using your WebTycho username 
+and email address in the form below.</h5>
+<hr/>
+			<h4>Sign in to your CSTutor Account: </h4>
+			<table border="0" width="100%" cellpadding="0" id="myforminner">			
+			<tr>
+				<td width="157">WebTycho username:</td>
+				<td><input type="text" name="wsuser" size="30"></td>
+			</tr>
+			<tr>
+				<td width="157">email address:</td>
+				<td><input type="text" name="wsemail" size="30"></td>
+			</tr>
+			<tr>
+				<td width="157"><input type="submit" value="Sign In" name="B1"></td>
+				<td>&nbsp;</td>
+			</tr>
+			</table>			
+			<hr/>
+			<h5>First time users need to create an account by clicking on the link below.</h5>
+			<p><a href="createStudent.php">Create a new CSTutor Account</a></p><br/>			
+		</form>
+		</td>
+	</tr>
+	
+</table>
+
+
+</body>
+
+</html>
