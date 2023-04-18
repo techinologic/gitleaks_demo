@@ -1,0 +1,6 @@
+smtphost=yourmailserverhere
+smtpport=25
+smtpauth=false
+smtpuser=""
+smtppass=""
+smtpfrom=donotreply@umuc.edu

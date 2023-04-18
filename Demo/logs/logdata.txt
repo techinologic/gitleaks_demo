@@ -1,0 +1,10 @@
+S3: Reservation success from 6, jrobertson1, CMIS102 on April 18, 2015, 9:57 am was 1
+S4: Reservation Email sent to james.robertson@umuc.edu, tutor1@umuc.edu on April 18, 2015, 9:57 am was 
+S3: Reservation success from 31, jrobertson1, CMIS102 on April 18, 2015, 9:58 am was 1
+S4: Reservation Email sent to james.robertson@umuc.edu, tutor1@umuc.edu on April 18, 2015, 9:58 am was 
+S3: Reservation success from 10, jrobertson1, CMIS141 on April 18, 2015, 10:04 am was 1
+S4: Reservation Email sent to james.robertson@umuc.edu, tutor2@umuc.edut on April 18, 2015, 10:04 am was 
+S3: Reservation success from 14, jrobertson1, CMIS242 on April 18, 2015, 10:04 am was 1
+S4: Reservation Email sent to james.robertson@umuc.edu, tutor2@umuc.edut on April 18, 2015, 10:04 am was 
+S3: Reservation success from 8, jrobertson1, CMIS102 on April 18, 2015, 10:04 am was 1
+S4: Reservation Email sent to james.robertson@umuc.edu, tutor1@umuc.edu on April 18, 2015, 10:04 am was 

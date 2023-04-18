@@ -1,0 +1,224 @@
+/* 
+    Document   : webstaffer CSS
+    Created on : Jan 1, 2011, 4:27:27 PM
+    Author     : James Robertson
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+body { 
+    display: block;
+    background-color: white;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size:1.2em;
+}
+h1 {
+    display: block;
+    color: #003366;    
+    text-align: center;      
+}
+h2 {
+    display: block;
+    color: #990000;  
+    text-align: center;     
+}
+h3 {
+    display: block;
+    color: #990000;    
+    text-align: center;      
+}
+h4 {
+    display: block;
+    color: #990000;  
+    font-style: center;     
+}
+h5 {
+    display: block;
+    color: #003366;    
+    text-align: left;      
+}
+h6 {
+    display: block;
+    color: #000000;    
+    text-align: left;      
+}
+
+#myheader
+{
+margin:auto;
+width:85%;
+border-collapse:collapse;
+}
+#myheader td, #myheader th 
+{
+font-size:1.2em;
+border:1px solid #CC9900;
+padding:3px 7px 2px 7px;
+}
+#myheader tr 
+{
+font-size:1.2em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#ffffff;
+color:#003366;
+}
+#myheader tr.alt td 
+{
+color:#000000;
+background-color:#666600;
+}
+
+table {
+	margin:auto;
+	width:85%;
+  text-align: left;
+}
+td
+{
+vertical-align:bottom;
+}
+div {
+    text-align: center;
+}
+
+#mylogin {
+	margin:auto;
+	width:40%;
+  text-align: left;  
+}
+
+
+#myerror {
+	margin:auto;
+	width:40%;
+  text-align: center;	
+}
+
+#myformouter {
+	margin:auto;
+	width:85%;
+	border:1px solid #CC9900;
+  text-align: center;
+  border-collapse:collapse;
+}
+#myformouter td, #myformouter th 
+{
+font-size:1.2em;
+border:1px solid #CC9900;
+padding:3px 7px 2px 7px;
+border-collapse:collapse;
+}
+#myformouter tr 
+{
+font-size:1.2em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#ffffff;
+color:#003366;
+border-collapse:collapse;
+}
+
+#myforminner {
+	margin:auto;
+	border:0px; 
+  text-align: left;  
+  vertical-align:middle;
+  width:100%;
+}
+#myforminner td, #myforminner th 
+{
+border:0px; 
+padding:3px 7px 2px 7px;
+font-size:1.0em;
+color:#000000;
+vertical-align:middle;
+}
+#myforminner tr 
+{
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+font-size:1.0em;
+color:#000000;
+vertical-align:middle;
+}
+#myforminner tr.do2 td 
+{
+color:#000000;
+background-color:#eee9e9;
+}
+
+#myresults {
+	margin:auto;
+	width:70%;
+	border:1px solid #CC9900;
+  text-align: center;
+  border-collapse:collapse;
+}
+#myresults td, #myresults th 
+{
+font-size:1.0em;
+border:1px solid #CC9900;
+padding:3px 7px 2px 7px;
+border-collapse:collapse;
+vertical-align:middle;
+}
+#myresults tr 
+{
+font-size:1.0em;
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#ffffff;
+color:#000000;
+border-collapse:collapse;
+vertical-align:middle;
+}
+#mybuttons {
+	margin:auto;
+	border:0px; 
+  text-align: center;  
+}
+#mybuttons td, #mybuttons th 
+{
+border:0px; 
+padding:3px 7px 2px 7px;
+font-size:1.0em;
+color:#000000;
+}
+#mybuttons tr 
+{
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+font-size:1.0em;
+color:#000000;
+}
+#mylogout {
+	margin:auto;
+	border:0px; 
+  text-align: left;  
+}
+#mylogout td, #mylogout th 
+{
+border:0px; 
+padding:3px 7px 2px 7px;
+font-size:1.0em;
+color:#000000;
+}
+#mylogout tr 
+{
+text-align:left;
+padding-top:5px;
+padding-bottom:4px;
+font-size:1.0em;
+color:#000000;
+}
